@@ -8,6 +8,4 @@ RENCANA KONTEN PLD
 - STUNTING
 * 1 Desa 1 Video
 - BUMDES
-^ BUMDESMA
 - TESTIMONI
-^ Testimoni 1 Desa 1 Video
