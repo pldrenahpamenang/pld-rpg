@@ -1,0 +1,4 @@
+PLD RESOLUSI
+- Konsisten untuk upload foto setiap kunjungan
+- Membuat platform untuk pengelolaan video
+- Membuat forum diskusi
